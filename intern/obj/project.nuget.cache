@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9oV8vIqmmCGScu4Ypb70MfWh7J7XVqAivagksfTCM/M4uH1kJd8OFGL27946ScnFc01muBgbI5GZQws2WWkjg==",
+  "success": true,
+  "projectFilePath": "D:\\week 3\\c # git\\see-sharp\\intern\\intern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intern.pquochuy1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
